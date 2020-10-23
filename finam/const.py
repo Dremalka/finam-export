@@ -26,6 +26,7 @@ class Market(IntEnum):
     SHARES = 1
     SPB = 517
     USA = 25
+    MBS = 8
 
 
 class Timeframe(IntEnum):
